@@ -8,3 +8,14 @@ Welcome to the **Brew Heaven Coffee** website! This project showcases our café�
 📍 Find Us – Contact details, location, and opening hours.<br><br>
 🎉 Events & Community – Stay updated on live music, open mic nights, and more.<br><br>
 🌿 Sustainability – Learn about our commitment to ethical sourcing and eco-friendly practices.
+
+
+
+
+
+
+
+
+
+
+
